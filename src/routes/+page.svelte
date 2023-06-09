@@ -85,7 +85,7 @@
 			{/if}
 
 			<label class="flex flex-col">
-				Border Width
+				Border Width ({borderWidthValue})
 				<input type="range" min="0" max="40" bind:value={borderWidth} />
 			</label>
 		</div>

@@ -6,7 +6,7 @@
 	<div class="bg-amber-600 p-8">
 		<h1 class="text-center text-3xl font-bold italic">SCROLLBARINATOR</h1>
 	</div>
-	<div class="px-16 overflow-auto flex-1">
+	<div class="md:px-16 overflow-auto flex-1">
 		<slot />
 	</div>
 	<div class="flex items-center text-sm font-semibold p-2 bg-black text-white justify-center">
